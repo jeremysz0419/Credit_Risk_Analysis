@@ -10,7 +10,7 @@ For this analysis we performed the following:
 
 
 ## Resources
-- Data Source: LoanStats_2019Q1.csv
+- Data Source: LoanStats.csv
 - Software: Python 3.7.9, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
 
 ## Results (Balanced Accuracy Scores, Confusion Matrixes and Imbalanced Classification Reports)
